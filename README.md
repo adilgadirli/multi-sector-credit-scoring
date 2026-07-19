@@ -1,12 +1,6 @@
 # 📊 Multi-Sector Credit Risk Assessment & Automated Scoring Engine
 
-<p align="left">
-  <a href="https://multi-sector-credit-scoring.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App"></a>
-  <img src="https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Framework-Basel%20III-green.svg?style=flat" alt="Basel III">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat" alt="License">
-</p>
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-sector-credit-scoring.streamlit.app/) | ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg) | ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg) | ![Basel III Compliant](https://img.shields.io/badge/Framework-Basel%20III-green.svg) | ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An institutional-grade, production-ready credit decision engine built on a **modular, config-driven architecture**. This system simulates automated risk assessment frameworks utilized by international Microfinance Institutions (MFIs) and fintech platforms, aligning with the **Accion Credit Scoring Methodology**.
 
@@ -14,6 +8,8 @@ An institutional-grade, production-ready credit decision engine built on a **mod
 
 ## 🚀 Live Demonstration
 🔗 **[Launch Live App](https://multi-sector-credit-scoring.streamlit.app/)**
+
+---
 
 ---
 
