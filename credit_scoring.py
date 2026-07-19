@@ -1,8 +1,8 @@
 import numpy as np
 import streamlit as st
 
-# Qovluq adını birbaşa import strukturuna daxil edirik
-from multi_sector_credit_scoring.sector_config import SECTOR_CONFIGS
+# Heç bir qovluq adı olmadan, birbaşa import edirik:
+from sector_config import SECTOR_CONFIGS
 
 # ==========================================
 # 1. PAGE CONFIGURATION
