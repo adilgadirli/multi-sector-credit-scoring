@@ -1,15 +1,8 @@
 import numpy as np
 import streamlit as st
-import sys
-import os
 
-# Serverin faylı tapması üçün mütləq yol təyini (Absolute PATH Injection)
-current_dir = os.path.dirname(os.path.abspath(__file__))
-if current_dir not in sys.path:
-    sys.path.insert(0, current_dir)
-
-# İndi isə konfiqurasiyanı təhlükəsiz şəkildə çağırırıq
-from sector_config import SECTOR_CONFIGS
+# Qovluq adını birbaşa import strukturuna daxil edirik
+from multi_sector_credit_scoring.sector_config import SECTOR_CONFIGS
 
 # ==========================================
 # 1. PAGE CONFIGURATION
