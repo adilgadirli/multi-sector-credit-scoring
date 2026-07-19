@@ -1,5 +1,10 @@
 # 📊 Multi-Sector Credit Risk Assessment & Automated Scoring Engine
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](LİNKİNİ_BURA_YAPIŞDIR)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Basel III Compliant](https://img.shields.io/badge/Framework-Basel%20III-green.svg?style=flat)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)
 An institutional-grade, production-ready credit decision engine built on a **modular, config-driven architecture**. This system simulates automated risk assessment frameworks utilized by international Microfinance Institutions (MFIs) and fintech platforms, aligning with the **Accion Credit Scoring Methodology**.
 
 ---
