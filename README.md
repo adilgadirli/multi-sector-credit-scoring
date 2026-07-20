@@ -2,6 +2,12 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-sector-credit-scoring.streamlit.app/) | ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg) | ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg) | ![Basel III](https://img.shields.io/badge/Framework-Basel_III-green.svg) | ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 📱 Dashboard Overview
+
+| Microfinance & Lombard Scoring | Auto Leasing Analytics |
+| :---: | :---: |
+| <img src="./assets/microfinance_demo.png" width="100%"/> | <img src="./assets/leasing_demo.png" width="100%"/> |
+
 An institutional-grade, production-ready credit decision engine built on a **modular, config-driven architecture**. This system simulates automated risk assessment frameworks utilized by international Microfinance Institutions (MFIs) and fintech platforms, aligning with the **Accion Credit Scoring Methodology**.
 
 ---
