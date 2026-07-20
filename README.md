@@ -6,7 +6,7 @@
 
 | Microfinance Scoring | Auto Leasing Analytics |
 | :---: | :---: |
-<img src="https://github.com/user-attachments/assets/5df29e84-546d-4f4c-a77c-736542e07bbf" alt="microfinance_demo" width="48%" /> <img src="https://github.com/user-attachments/assets/5a04a9e1-00e3-4e9c-b2dd-3bb480687185" alt="leasing_demo" width="48%" />
+<img src="https://github.com/user-attachments/assets/5df29e84-546d-4f4c-a77c-736542e07bbf" alt="microfinance_demo" width="65%" /> <img src="https://github.com/user-attachments/assets/5a04a9e1-00e3-4e9c-b2dd-3bb480687185" alt="leasing_demo" width="65%" />
 
 An institutional-grade, production-ready credit decision engine built on a **modular, config-driven architecture**. This system simulates automated risk assessment frameworks utilized by international Microfinance Institutions (MFIs) and fintech platforms, aligning with the **Accion Credit Scoring Methodology**.
 
