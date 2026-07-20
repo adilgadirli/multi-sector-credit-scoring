@@ -6,8 +6,8 @@
 
 <table>
   <tr>
-    <td align="center" width="65%"><b>Micro & Small Business Scoring</b></td>
-    <td align="center" width="65%"><b>Auto Leasing Scoring</b></td>
+    <td align="center" width="70%"><b>Micro & Small Business Scoring</b></td>
+    <td align="center" width="70%"><b>Auto Leasing Scoring</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/5df29e84-546d-4f4c-a77c-736542e07bbf" alt="microfinance_demo" /></td>
