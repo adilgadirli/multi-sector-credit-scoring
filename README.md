@@ -60,3 +60,12 @@ If you want to run this credit engine locally, clone this repository and follow 
    cd multi-sector-credit-scoring
    pip install -r requirements.txt
    python -m streamlit run credit_scoring.py
+
+## 🧪 Automated Testing
+
+This repository includes unit tests to ensure the credit scoring mathematical model and risk boundary functions perform reliably.
+
+To run the test suite locally:
+
+```bash
+python -m pytest
