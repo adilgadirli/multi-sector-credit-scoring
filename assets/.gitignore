@@ -1,0 +1,5 @@
+.gitignore__pycache__/
+*.pyc
+microfinance.db
+.vscode/
+.env
